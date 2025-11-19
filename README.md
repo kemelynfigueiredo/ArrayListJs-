@@ -50,7 +50,4 @@ Commo funciona:
 
     console.log(soma); // 10
     
-
-
-
-console.log(pares); // [2, 4, 6]
+    console.log(pares); // [2, 4, 6]
